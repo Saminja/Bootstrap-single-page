@@ -1,0 +1,9 @@
+fe6d784 added hero text, with pill background shadow, finishing touches.
+63efb43 added nav bar along bottom with hamburger collapse. added content info on top and repositioned button
+1c12b0a merge?
+eec3ed6 accidentally reset git commit, readded cdn links, picture, and centered bg img to respond.
+ee8d0db changed photo, designing page now. trying to figure out my layout
+e057f2e connected node, edits
+e30a4e1 got helper code from emily for reference
+ff6f16c saving progrees thus far. added bg photo and header elements
+2be18d8 Initial commit
