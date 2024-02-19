@@ -4,9 +4,10 @@ body {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  height: 100vh; /* Ensure full height */
-  margin: 0; /* Remove default margin */
-  position: relative; /* Required for absolute positioning */
+  height: 100vh; 
+  margin: 0;
+  position: relative;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
   
 }
 
@@ -15,10 +16,12 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  text-align: center; /* Optional: Center content horizontally */
+  text-align: center; 
   color: white;
   padding-top: 100px;
+  
 }
+
 
 .navbar-nav .nav-link {
   margin-right: 80px;
@@ -27,7 +30,7 @@ body {
  }
 
  .dark-background-box {
-  background-color: rgba(0, 0, 0, 0.5); /* Adjust the opacity as needed */
-  color: white; /* Text color */
-  padding: 20px; /* Adjust the padding as needed */
+  background-color: rgba(0, 0, 0, 0.5); 
+  color: white; 
+  padding: 20px; 
 }
