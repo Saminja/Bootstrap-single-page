@@ -5,13 +5,18 @@ body {
   padding: 0;
 }
 
+
+
 .bg {
-  width: 100vw;
+  margin: 0;
   height: 100vh;
-  background-image: url("https://static.wixstatic.com/media/6fc52d_caec82a3d90249e8ad51e96ed20db5b1~mv2.jpg/v1/fill/w_640,h_376,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6fc52d_caec82a3d90249e8ad51e96ed20db5b1~mv2.jpg");
+  background-image: url(/images/cessna.jpeg);
   background-repeat: no-repeat;
+  background-position: center center;
   background-size: cover;
-  z-index: -2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container {
